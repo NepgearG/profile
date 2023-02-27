@@ -1,4 +1,4 @@
-# about me
+# About me
 
 ## ⚡️ Status
 <!-- リポジトリステータス -->
@@ -7,7 +7,7 @@
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NepgearG&layout=compact&theme=dark)](https://github.com/NepgearG/)
 
-# profile
+## Profile
 
 中文版  <>  
 日本語版 <>  
